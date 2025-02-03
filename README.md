@@ -18,7 +18,7 @@ To get started with the tools in this repository:
 
     bash
 
-git clone https://github.com/yourusername/cybersecurity-projects.git
+git clone https://github.com/malikali73/cybersecurity-projects.git
 
 Navigate to the directory:
 
